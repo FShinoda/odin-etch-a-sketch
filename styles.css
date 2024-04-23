@@ -1,20 +1,23 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
 #container {
-    width: 400px;
+    width: 800px;
+    height: 800px;
     display: flex;
     flex-wrap: wrap;
     align-content: flex-start;
 }
 
 .childDiv { 
-    width: 98px;
-    height: 98px;
     background-color: white;
     border: solid 1px black;
 }
 
 .childDivOnHover {
-    width: 98px;
-    height: 98px;
     border: solid 1px black;
     background-color: black;
 }
