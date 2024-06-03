@@ -4,7 +4,7 @@ A simple Etch-a-Sketch project from [The Odin Project](https://www.theodinprojec
 
 I really like drawing and art so, to me, this project was pretty cool and funny to build!
 
-I am still thinking about doind a prettier UI to it or not.
+I am still thinking about doing a prettier UI to it or not.
 
 Anyways, as always I would like to thank The Odin Project. I really think I am growing and getting somewhere.
 
